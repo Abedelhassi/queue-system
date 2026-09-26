@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "/home/abdelhassiblakhdari/queue-system/backend/venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": [
+    "/home/abdelhassiblakhdari/queue-system/backend"
+  ],
+  "python.analysis.typeCheckingMode": "basic"
+}
